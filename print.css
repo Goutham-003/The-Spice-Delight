@@ -1,0 +1,15 @@
+@page
+{
+    size:A4;
+    margin:3;
+}
+#btnp
+{
+    display:none;
+    visibility:none;
+}
+#Home
+{
+    display:none;
+    visibility:none;
+}
